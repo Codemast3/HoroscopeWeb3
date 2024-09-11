@@ -1,7 +1,8 @@
 # 🪐 Horoscope NFT DApp
 
-![Project Banner](![ezgif com-optimize (2)](https://github.com/user-attachments/assets/26ca58b5-1717-4150-a044-35ec0d922f86)
-)
+![Screenshot 2024-09-12 005815](https://github.com/user-attachments/assets/906cc4a2-0be5-44d8-8138-20dc482052f7)
+
+
 
 ## Heya folks! 🚀
 
@@ -54,14 +55,14 @@ This is gonna be so cool, and I’m super excited to see the amazing projects yo
 ## 📸 Screenshots
 
 **App Interface:**
-![App Interface](](https://github.com/user-attachments/assets/de5b641c-8fba-41a3-9449-442b42b19565)
+![App Interfac](](https://github.com/user-attachments/assets/de5b641c-8fba-41a3-9449-442b42b19565)
 )
 
 
 
 **Metamask Wallet Connection:**
-![Metamask Integration](![Screenshot 2024-09-10 020546](https://github.com/user-attachments/assets/9a58106b-27e2-4f9c-bb00-c0d044ea2ef0)
-)
+(![Screenshot 2024-09-10 020708](https://github.com/user-attachments/assets/866966ca-bf33-4ccc-a7f1-3951a7e59ba2)
+
 
 **NFT Minted Successfully:**
 ![NFT Success](![Screenshot 2024-09-12 004836](https://github.com/user-attachments/assets/f7dc709c-ff5c-4b24-a2b9-6eab265b215f)
