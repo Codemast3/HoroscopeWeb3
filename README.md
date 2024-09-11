@@ -60,8 +60,12 @@ This is gonna be so cool, and I’m super excited to see the amazing projects yo
 
 
 
+
+
 **Metamask Wallet Connection:**
 (![Screenshot 2024-09-10 020708](https://github.com/user-attachments/assets/866966ca-bf33-4ccc-a7f1-3951a7e59ba2)
+
+
 
 
 **NFT Minted Successfully:**
